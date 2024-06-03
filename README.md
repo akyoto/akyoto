@@ -1,5 +1,7 @@
-| 📁 | 🔗 |
-| --- | --- |
-| Chat | [#community:akyoto.dev](https://matrix.to/#/#community:akyoto.dev) |
-| Git | [git.akyoto.dev](https://git.akyoto.dev/explore/repos) |
-| Web |[akyoto.dev](https://akyoto.dev) |
+Hi 👋
+
+You can find me on my...
+
+🌍 [Blog](https://akyoto.dev)  
+🖥️ [Gitea](https://git.akyoto.dev/explore/repos)  
+🗨️ [Matrix](https://matrix.to/#/#community:akyoto.dev)
