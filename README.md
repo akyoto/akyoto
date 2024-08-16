@@ -1,6 +1,7 @@
 # Hi 👋
 
 I'm currently busy with programming language research and [compiler](https://git.akyoto.dev/cli/q) development.  
+I am building a fast compiler for use in systems programming, game development and web servers on all major platforms.  
 You can find me on my...
 
 🌍 [Blog](https://akyoto.dev)  
