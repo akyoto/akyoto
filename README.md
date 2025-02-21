@@ -1,6 +1,6 @@
 # Hi 👋
 
-I am building a fast [compiler](https://git.akyoto.dev/cli/q) for use in 🖥️ systems programming, 🚀 game development and 🌐 web servers.
+I am building a fast [compiler](https://akyoto.dev) for use in 🖥️ systems programming, 🚀 game development and 🌐 web servers.
 
 You can find me on my...
 
