@@ -8,11 +8,11 @@ My main project is the [🌱 q](https://git.urbach.dev/cli/q) programming langua
 
 While several features are still needed for production readiness, their performance impact is manageable.
 I estimate that even after achieving feature parity, the compiler will remain at least 5-6 times faster than others.
-I'm looking for contributors who want to help design a correct, maintainable and high-performance compiler for the future.
+I'm looking for contributors interested in helping design a correct, maintainable and high-performance compiler for the future.
 
 As a side project I maintain a minimalistic HTTP [🌐 server](https://git.urbach.dev/go/web)
 and [🔗 router](https://git.urbach.dev/go/router), both of which power my website.
-Their performance is exceptional, though certain compromises were necessary to achieve this level of efficiency.
+Their performance is exceptional, though certain trade-offs were necessary to achieve this level of efficiency.
 
 Other things I've worked on are
 a [📃 markdown](https://git.urbach.dev/go/markdown) renderer,
